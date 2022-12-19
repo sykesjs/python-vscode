@@ -1,4 +1,4 @@
-# Visual Studio Code Python Scripting environment
+# Visual Studio Code Python Environment
 
 This repository includes tools for doing containerized development for Python 3.
 
@@ -27,7 +27,7 @@ Install the container runtime of your choice. For example [Docker Desktop](https
 1. Install [Dev Containers](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-containers)
 2. (Optional) Install the [Docker Extension](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-docker)
 
-## Clone this Repo
+## Fork and Clone the Repository
 
 Fork this repository.
 Clone the forked repository and open the local checkout in Visual Studio Code.
