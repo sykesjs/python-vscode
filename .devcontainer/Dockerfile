@@ -1,6 +1,6 @@
 FROM ubuntu:kinetic-20221101
 
-LABEL maintainer="BurnsMcD Platform Engineering"
+LABEL maintainer="Jeffrey Sykes"
 LABEL description="Container for Python Scripting"
 
 # Install Dependencies
